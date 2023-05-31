@@ -6,8 +6,8 @@ Notre Dame University <br />
 Completion date: 13 May 2023 <br />
 <br />
 Notes:<br /> 
-1) This project was an assignment done by a group of 2. <br />
-2)"DA3 SHADY" which is in Arabic and it means "Shady is lost", the idea is if "Shady" falls off the platform then he is "lost"<br />
+This project was an assignment done by a group of 2. <br />
+"DA3 SHADY" which is in Arabic and it means "Shady is lost", the idea is if "Shady" falls off the platform then he is "lost"<br />
 <br />
 *Story of the Game:<br />
 Shady is lost, he needs to find his family. He must jump through all the platforms to reach them.<br />
