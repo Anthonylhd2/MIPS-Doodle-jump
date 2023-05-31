@@ -1,13 +1,13 @@
 # MIPS-Doodle-jump
 
-CSC 312 (Computer Architeture):
-MIPS Project
-Notre Dame University
-Completion date: 13 May 2023 
-
-*Notes: 
-1) This project was an assignment done by a group of 2. 
-2)"DA3 SHADY" which is in Arabic and it means "Shady is lost", the idea is if "Shady" falls off the platform then he is "lost"
+CSC 312 (Computer Architeture): <br />
+MIPS Project <br />
+Notre Dame University <br />
+Completion date: 13 May 2023 <br />
+<br />
+Notes:<br /> 
+1) This project was an assignment done by a group of 2. <br />
+2)"DA3 SHADY" which is in Arabic and it means "Shady is lost", the idea is if "Shady" falls off the platform then he is "lost"<br />
 
 *Story of the Game:
 Shady is lost, he needs to find his family. He must jump through all the platforms to reach them.
