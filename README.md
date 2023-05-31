@@ -1,6 +1,6 @@
 # MIPS-Doodle-jump
 
-CSC 312 (Computer Architeture)
+CSC 312 (Computer Architeture):
 MIPS Project
 Notre Dame University
 Completion date: 13 May 2023 
